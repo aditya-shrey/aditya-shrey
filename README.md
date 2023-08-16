@@ -9,6 +9,6 @@ My name is Aditya, and I am currently an undergraduate student studying Computer
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 # Github
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-shrey&show_icons=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-shrey&show_icons=true&rank_icon=github)  
 
 ![](https://komarev.com/ghpvc/?username=aditya-shreyo&style=flat-square)
