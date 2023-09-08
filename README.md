@@ -1,6 +1,10 @@
-# Welcome!
 
-My name is Aditya, and I am currently an undergraduate student studying Computer Science and Mathematics. I enjoy learning about different technologies, their applications, and problem-solving strategies. I am an aspiring software engineer and look forward to driving innovation in the industry. Feel free to connect and check out my [website.](https://aditya-shrey.github.io/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=700&size=30&duration=3500&pause=1000&color=30B4F7&width=700&height=40&lines=Welcome!+I'm+Aditya;I'm+currently+a+CS+student;and+an+aspiring+Software+Engineer;Feel+free+to+connect+and+reach+out!)](https://git.io/typing-svg)
+- 📚 Undergraduate at Vanderbilt University in CS & Math.
+- 💻 Specializing in machine learning and computer vision.
+- 🛠️ Exploring diverse technologies and problem-solving methods.
+- 🗨️ Bridging tech and people through effective communication.
+- 🌐 Feel free to connect and check out my [website.](https://aditya-shrey.github.io/)!
 
 # Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aditya-shrey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adityashrey/)
