@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=1000&size=30&duration=3500&pause=1000&color=30B4F7&vCenter=true&width=700&height=40&lines=Welcome!+I'm+Aditya;I'm+currently+a+CS+student;and+an+aspiring+Software+Engineer;Feel+free+to+connect+and+reach+out!)](https://aditya-shrey.github.io/)
 
-📚 Undergraduate at Vanderbilt University in CS & Math
+📚 Undergraduate at Vanderbilt University double majoring in CS & Math
 
-💻 Specializing in machine learning and computer vision.
+💻 Specializing in machine learning and computer vision
 
-🛠️ Exploring diverse technologies and problem-solving methods.
+🛠️ Exploring diverse technologies and problem-solving methods
 
-🗨️ Bridging tech and people through effective communication.
+🗨️ Bridging tech and people through effective communication
 
 🌐 Feel free to connect and check out my [website](https://aditya-shrey.github.io/)!
 
