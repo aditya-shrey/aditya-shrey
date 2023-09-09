@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=1000&size=30&duration=3500&pause=1000&color=30B4F7&vCenter=true&width=700&height=40&lines=Welcome!+I'm+Aditya;I'm+currently+a+CS+student;and+an+aspiring+Software+Engineer;Feel+free+to+connect+and+reach+out!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=1000&size=30&duration=3500&pause=1000&color=30B4F7&vCenter=true&width=700&height=40&lines=Welcome!+I'm+Aditya;I'm+currently+a+CS+student;and+an+aspiring+Software+Engineer;Feel+free+to+connect+and+reach+out!)](https://github.com/aditya-shrey)
 
 📚 Undergraduate at Vanderbilt University in CS & Math
 
