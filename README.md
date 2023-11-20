@@ -4,7 +4,7 @@ I'm Aditya, an undergraduate at Vanderbilt University double majoring in Compute
 
 Feel free to connect and check out my [website](https://aditya-shrey.github.io/)!
 
-### Connect with me
+## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aditya-shrey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adityashrey/)
 
 ```cpp
@@ -19,7 +19,7 @@ public:
 };
 ```
 
-# Skills
+## Skills
 ![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -35,7 +35,7 @@ public:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-# Github
+## Github
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-shrey&show_icons=true&rank_icon=github)  
 
 ![](https://komarev.com/ghpvc/?username=aditya-shreyo&style=flat-square)
