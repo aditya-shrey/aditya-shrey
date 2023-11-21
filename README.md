@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Aditya, an undergraduate at Vanderbilt University double majoring in Computer Science and Mathematics. I'm passionate about machine learning, computer vision, and finding innovative solutions through technology. Apart from coding, I love engaging in community projects, exploring new cultures, and connecting with people from diverse backgrounds. 
+I'm Aditya, an undergraduate at Vanderbilt University double majoring in Computer Science and Mathematics. I'm passionate about machine learning, computer vision, and finding innovative solutions through technology. Apart from coding, I love exploring new perspectives and connecting with people from diverse backgrounds. 
 
 Feel free to connect and check out my [website](https://aditya-shrey.github.io/)!
 
