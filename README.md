@@ -10,12 +10,12 @@ Feel free to connect and check out my [website](https://aditya-shrey.github.io/)
 ```cpp
 class AboutMe {
 public:
-    string name = "Aditya";
-    string university = "Vanderbilt University";
-    std::vector<string> majors = {"Computer Science", "Mathematics"};
-    std::vector<string> interests = {"Machine Learning", "Computer Vision", "Problem-Solving"};
-    string currentFocus = "Exploring diverse technologies and bridging tech with people";
-    string invitation = "Feel free to connect and reach out!";
+    std::string name = "Aditya";
+    std::string university = "Vanderbilt University";
+    std::vector<std::string> majors = {"Computer Science", "Mathematics"};
+    std::vector<std::string> interests = {"Machine Learning", "Computer Vision", "Problem-Solving"};
+    std::string currentFocus = "Exploring diverse technologies and bridging tech with people";
+    std::string invitation = "Feel free to connect and reach out!";
 };
 ```
 
