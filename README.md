@@ -23,3 +23,7 @@ public:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-shrey&show_icons=true&rank_icon=github)  
 
 ![](https://komarev.com/ghpvc/?username=aditya-shreyo&style=flat-square)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maddoxrb&theme=dark" alt="maddoxrb" />
+</p>
