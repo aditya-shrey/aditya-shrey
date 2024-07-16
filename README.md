@@ -6,7 +6,7 @@
 <div align="center">
     I’m currently a 3rd year BS/MS student at Vanderbilt University studying Computer Science and Applied Mathematics. My academic and professional interests are rooted in statistical machine learning, deep learning, and optimization. 
     <br></br>
-    Checkout my <a href="https://aditya-shrey.github.io">personal website</a>.
+    Checkout my <a href="https://aditya-shrey.github.io">personal website</a>!
 </div>
 
 
