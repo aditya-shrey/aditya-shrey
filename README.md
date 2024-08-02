@@ -4,7 +4,7 @@
 
 
 <div align="center">
-    I’m currently a 3rd year BS/MS student at Vanderbilt University studying Computer Science and Applied Mathematics. My academic and professional interests are rooted in deep learning, algorithms, and optimization.
+    I’m currently a 3rd year BS/MS student at Vanderbilt University studying Computer Science and Applied Mathematics. My academic and professional interests are rooted in machine learning, algorithms, and system architecture.
     <br></br>
     Checkout my <a href="https://aditya-shrey.github.io">personal website</a>!
 </div>
