@@ -2,7 +2,7 @@
     Hi, I’m Aditya.
 </h2>
 <div>
-    I’m currently a 3rd year BS/MS student at Vanderbilt University studying Computer Science and Applied Mathematics. My academic and professional interests are rooted in machine learning, algorithms, and system architecture.
+    I’m currently a BS/MS student at Vanderbilt University studying Computer Science and Applied Mathematics. My academic and professional interests are rooted in machine learning, algorithms, and system architecture.
 </div>
 
 <h3>
